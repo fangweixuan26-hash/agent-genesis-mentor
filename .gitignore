@@ -1,0 +1,8 @@
+# 观澜录运行时生成的数据目录 — 本地日志文件，不上传
+.agent-genesis/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
